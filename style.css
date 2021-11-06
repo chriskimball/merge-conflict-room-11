@@ -13,6 +13,17 @@
     width:33%;
 }
 
+.box3{
+    background-color: coral;
+    text-align: center;
+    color: darkblue;
+}
+
+.box3 p {
+    transform: rotate(5deg);
+    color: darkslateblue;
+}
+
 @media screen and (min-width:999px) {
     #box{
         width:33%;
